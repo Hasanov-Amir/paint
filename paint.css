@@ -29,3 +29,10 @@ body {
 	width: 100px;
 	height: 25px;
 }
+
+.eraseButton {
+	width: 100px;
+	height: 25px;
+	background-color: green;
+	color: white;
+}
